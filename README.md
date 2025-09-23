@@ -4,8 +4,7 @@
 
 ## Структура проекта
 
-helloapi/
-
+    helloapi/
     ├── go.mod
     ├── go.sum
     ├── helloapi.exe
